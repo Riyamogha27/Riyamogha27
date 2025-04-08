@@ -5,7 +5,7 @@ I am a passionate Computational Biology student at Indraprastha Institute of Inf
 - 👀 I’m interested in applying machine learning and data science to solve biological challenges.
 - 🌱 I’m currently learning advanced techniques in machine learning and data analysis.
 - 💞️ I’m looking to collaborate on projects related to drug discovery, computational biology, and healthcare applications.
-- 📫 You can reach me at riya23235@iiitd.ac.in.
+- 📫 You can reach me at moghariya27.08@gmail.com.
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I enjoy experimenting with new code challenges and creating visualizations in my spare time!
 
